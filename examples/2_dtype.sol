@@ -10,5 +10,3 @@ contract MyContract {
     uint8 public myUint8 = 8;
     
 }
-
-33:29
